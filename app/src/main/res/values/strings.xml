@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SIMPLE BLOG APPLICATION</string>
+    <string name="email_hint">ENTER YOUR EMAIL....</string>
+    <string name="password_hint">ENTER YOUR PASSWORD....</string>
+    <string name="logo_login_description">LOGO LOGIN PAGE</string>
+    <string name="login_button_text">LOGIN TO ACCOUNT</string>
+    <string name="login_registration_button_text">NEED A NEW ACCOUNT?</string>
+    <string name="action_search_text">SEARCH</string>
+    <string name="action_setting_text">ACCOUNT SETTING</string>
+    <string name="action_logout_text">LOGOUT</string>
+    <string name="first_name">ENTER YOUR FIRST NAME....</string>
+    <string name="last_name">ENTER YOUR LAST NAME....</string>
+    <string name="reg_btn_text">CREATE NEW ACCOUNT</string>
+    <string name="reg_login_text">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="reg_password_text">PASSWORD....</string>
+    <string name="confirm_password">CONFIRM PASSWORD....</string>
+    <string name="setup_name_hint">YOUR NAME....</string>
+    <string name="setup_btn_name_text">SAVE ACCOUNT SETTING</string>
+    <string name="post_description_hint">ADD DESCRIPTION....</string>
+    <string name="new_post_btn_hint">POST BLOG</string>
+    <string name="bottom_home_text">HOME</string>
+    <string name="bottom_notification_text">NOTIFICATION</string>
+    <string name="bottom_account_text">ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
